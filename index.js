@@ -1,3 +1,5 @@
+
+//first comment
 //creating four variables used in futhur programming
 
 var hours=0;
